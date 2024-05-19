@@ -1,0 +1,3 @@
+Ricardo Darin,1,300,2,150
+Luis Brandoni,2,80,3,400
+Norma Aleandro,3,100,2,300
